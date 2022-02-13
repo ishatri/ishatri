@@ -1,6 +1,7 @@
 ### Hi, there I'm Isha.
 
-<p align="center">![Alt Text](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+<p align="center">
+  ![Alt Text](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 <!-- ## 👋 &nbsp;Hey there! I'm Isha-->
 
