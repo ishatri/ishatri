@@ -1,18 +1,16 @@
 ### Hi, there 
- 
-
-<img alt=<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>/><h2>Hey there! I'm Isha</h2>
+ <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Isha-->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I am a Sophomore in National Institute of Technology, Agartala.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at ishatripathi0421@gmail.com! I'll try to respond as soon as I can.\
+💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp; I am a Sophomore in National Institute of Technology, Agartala.\
+💬 &nbsp; Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp; You can shoot me an email at ishatripathi0421@gmail.com! I'll try to respond as soon as I can.\
 
-<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -33,13 +31,11 @@
 <p align="center">
 <a href="https://github.com/ishatri">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ishatri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ishatri8&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
 <a href="https://linkedin.com/in/ishatri04"><img src="https://img.shields.io/badge/-Isha%20Tripathi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
