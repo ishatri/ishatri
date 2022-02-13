@@ -6,6 +6,8 @@ I'm Isha.I'm a Sophomore in National Institute of Technology,Agartala.
  
  ## The languages I play around with 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishatri)](https://github.com/ishatri/github-readme-stats)
+ 
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ishatri)](https://github.com/ishatri/github-readme-stats)
 
 
  ## Watch a snake eat my contibution graph
