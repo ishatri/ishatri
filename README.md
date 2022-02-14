@@ -33,9 +33,6 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="left"> <a href="https://twitter.com/ishatri04" target="blank"><img src="https://img.shields.io/twitter/follow/pragatikri31?logo=twitter&style=for-the-badge" alt="ishatri04" /></a>                         
- <img src = "https://visitor-badge.laobi.icu/badge?page_id=ishatri04">                                                                                                        <img src = "https://img.shields.io/github/followers/ishatri04?label=Follow&style=social)(https://github.com/ishatri04)">
- </p>
 <a href="https://linkedin.com/in/ishatri04"><img src="https://img.shields.io/badge/-Isha%20Tripathi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
