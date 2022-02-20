@@ -1,6 +1,6 @@
 ### Hi, there I'm Isha.
 
-  ![Alt Text](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+<img alt="Night Coding" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right"/>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Isha-->
 
