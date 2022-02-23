@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp; I like exploring new tech and love following the same.\
 🎓 &nbsp; I am a Sophomore in National Institute of Technology, Agartala.\
 ✉️ &nbsp; You can shoot me an email at ishatripathi0421@gmail.com! I'll try to respond as soon as I can.\
 
@@ -33,6 +33,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishatri&show_icons=true&theme=radical)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ishatri&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
