@@ -35,10 +35,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishatri&show_icons=true&theme=radical)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ishatri&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak]
+{text-align: center;}(https://github-readme-streak-stats.herokuapp.com?user=ishatri&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Activity Graph
-<img src = "https://activity-graph.herokuapp.com/graph?username=ishatri&theme=react-dark">
+{text-align: center;}<img src = "https://activity-graph.herokuapp.com/graph?username=ishatri&theme=react-dark">
 
 
 
@@ -47,7 +48,7 @@
 
 
  ## Watch a snake eat my contribution graph
- ![snake gif](https://github.com/ishatri/ishatri/blob/output/github-contribution-grid-snake.gif)
+ {text-align: center;}![snake gif](https://github.com/ishatri/ishatri/blob/output/github-contribution-grid-snake.gif)
  
   
  ## The languages I play around with 
