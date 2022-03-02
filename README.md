@@ -8,7 +8,7 @@
 
 💡 &nbsp; I like exploring new tech and love following the same.\
 🎓 &nbsp; I am a Sophomore in National Institute of Technology, Agartala.\
-✉️ &nbsp; You can shoot me an email at ishatripathi0421@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp; You can shoot me an email at ishatripathi0421@gmail.com! I'll try to respond as soon as I can.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ishatri04?label=Follow)](https://twitter.com/intent/follow?screen_name=ishatri04)
 [![Linkedin: Isha](https://img.shields.io/badge/-Isha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishatri04/)](https://www.linkedin.com/in/ishatri04/)
@@ -39,7 +39,7 @@
 
 
 
- ## Watch a snake eat my contibution graph
+ ## Watch a snake eat my contribution graph
  ![snake gif](https://github.com/ishatri/ishatri/blob/output/github-contribution-grid-snake.gif)
  
   
