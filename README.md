@@ -36,10 +36,10 @@
 
 
 [![GitHub Streak]
-{text-align: center;}(https://github-readme-streak-stats.herokuapp.com?user=ishatri&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+(https://github-readme-streak-stats.herokuapp.com?user=ishatri&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Activity Graph
-{text-align: center;}<img src = "https://activity-graph.herokuapp.com/graph?username=ishatri&theme=react-dark">
+<img src = "https://activity-graph.herokuapp.com/graph?username=ishatri&theme=react-dark">
 
 
 
@@ -48,7 +48,7 @@
 
 
  ## Watch a snake eat my contribution graph
- {text-align: center;}![snake gif](https://github.com/ishatri/ishatri/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ishatri/ishatri/blob/output/github-contribution-grid-snake.gif)
  
   
  ## The languages I play around with 
