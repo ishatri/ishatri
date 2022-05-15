@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I like exploring new tech and love following the same.\
+💡 &nbsp; I am a web3 enthusiast with interest ranging from blockchain, deep learning and ML.\
 🎓 &nbsp; I am a Sophomore in National Institute of Technology, Agartala.\
 ✉️ &nbsp; You can shoot me an email at ishatripathi0421@gmail.com! I'll try to respond as soon as I can.
 
