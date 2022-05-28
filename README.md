@@ -43,11 +43,12 @@
 
 ------------------
 
+<p align="center">
+  <img src="https://github.com/ishatri/ishatri/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 
-
- ## Watch a snake eat my contribution graph
+</p><!--  ## Watch a snake eat my contribution graph
 ![snake gif](https://github.com/ishatri/ishatri/blob/output/github-contribution-grid-snake.gif)
- 
+  -->
   
  ## The languages I play around with 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishatri)](https://github.com/ishatri/github-readme-stats)
