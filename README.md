@@ -1,3 +1,14 @@
+<h3 align="center">
+  Welcome to Isha's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<!-- Typing SVG by ishatri - https://github.com/ishatri/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/ishatri/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;%20Designer;%20Storyteller;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
+
+
 ### Hi, there I'm Isha.
 
 <img alt="Night Coding" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right"/>
@@ -6,7 +17,6 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I am a web3 enthusiast with interest ranging from blockchain, deep learning and ML.\
 🎓 &nbsp; I am a Sophomore in National Institute of Technology, Agartala.\
 ✉️ &nbsp; You can shoot me an email at ishatripathi0421@gmail.com! I'll try to respond as soon as I can.
 
