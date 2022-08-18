@@ -40,28 +40,6 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 
-### ⚙️ &nbsp;GitHub Analytics
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishatri&show_icons=true&theme=radical)
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ishatri&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-## Activity Graph<img src = "https://activity-graph.herokuapp.com/graph?username=ishatri&theme=react-dark">
-
-
-
-------------------
-
-<p align="center">
-  <img src="https://github.com/ishatri/ishatri/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-
-</p><!--  ## Watch a snake eat my contribution graph
-![snake gif](https://github.com/ishatri/ishatri/blob/output/github-contribution-grid-snake.gif)
-  -->
-  
- ## The languages I play around with 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishatri)](https://github.com/ishatri/github-readme-stats)
  
 
  
