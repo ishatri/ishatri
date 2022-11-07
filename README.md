@@ -11,14 +11,11 @@
 
 ### Hi, there I'm Isha.
 
-<img alt="Night Coding" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right"/>
+<img alt="Night Coding" src="https://media.giphy.com/media/DhstvI3zZ598Nb1rFf/giphy.gif" align="center"/>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Isha-->
 
-### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp; I am a Sophomore in National Institute of Technology, Agartala.\
-✉️ &nbsp; You can shoot me an email at ishatripathi0421@gmail.com! I'll try to respond as soon as I can.
+
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ishatri04?label=Follow)](https://twitter.com/intent/follow?screen_name=ishatri04)
 [![Linkedin: Isha](https://img.shields.io/badge/-Isha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishatri04/)](https://www.linkedin.com/in/ishatri04/)
