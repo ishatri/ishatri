@@ -1,20 +1,4 @@
-<h3 align="center">
-  Welcome to Isha's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<!-- Typing SVG by ishatri - https://github.com/ishatri/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/ishatri/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;%20Designer;%20Storyteller;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
-
-
-### Hi, there I'm Isha.
-
-<img alt="Night Coding" src="https://media.giphy.com/media/DhstvI3zZ598Nb1rFf/giphy.gif" align="center"/>
-
-
-
+![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ishatri04?label=Follow)](https://twitter.com/intent/follow?screen_name=ishatri04)
